@@ -4,6 +4,7 @@
 This is a team project developed using Git and GitHub.
 
 ## Modules
+Project Status: Marks module in progress.
 1. Attendance Module
 2. Marks Module
 
