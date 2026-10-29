@@ -7,3 +7,8 @@ Features:
 1. Record student attendance.
 2. Store attendance status.
 3. Maintain attendance records.
+Attendance Workflow:
+1. Select the student.
+2. Enter the attendance date.
+3. Record Present or Absent.
+4. Save the attendance record.
