@@ -7,3 +7,8 @@ Features:
 1. Record student marks.
 2. Store subject-wise marks.
 3. Maintain student result records.
+Marks Workflow:
+1. Select the student.
+2. Enter the subject name.
+3. Record the marks obtained.
+4. Save the marks record.
