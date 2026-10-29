@@ -1,0 +1,9 @@
+STUDENT ATTENDANCE MODULE
+
+Purpose:
+To maintain student attendance information.
+
+Features:
+1. Record student attendance.
+2. Store attendance status.
+3. Maintain attendance records.

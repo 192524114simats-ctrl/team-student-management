@@ -1,0 +1,9 @@
+STUDENT MARKS MODULE
+
+Purpose:
+To maintain student marks information.
+
+Features:
+1. Record student marks.
+2. Store subject-wise marks.
+3. Maintain student result records.
